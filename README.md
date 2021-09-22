@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SeemaSingla
-- 👀 I’m interested in all I can learn
+- 👀 I’m interested in all that I can learn
 - 🌱 I’m currently learning Golang and Vue.js
 - 💞️ I’m looking to collaborate on any project that adds value to me.
 - 📫 How to reach me --> via Linkedin
